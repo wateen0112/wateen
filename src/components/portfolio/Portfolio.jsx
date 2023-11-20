@@ -29,7 +29,7 @@ const items = [
     title: "QR Code Germany",
     img: "qr-code.png",
     desc: "Qr-code is a website to convert your information and data to Qr-code  \n made with ELKOOD team,  funded by ELKOOD Software company",
-    src:''},
+    src:'https://qrcodegermany.de/en'},
   {
     id: 5,
     title: "Ararat outdoors",
@@ -40,7 +40,7 @@ const items = [
       title: "FlyOrder - Dashboard",
       img: "fly-order.png",
       desc: "Dashboard of FlyOrder Mobile Apps for delivering food  in Damascus-Syria   \n made with ELKOOD team,  funded by ELKOOD Software company",
-      src:'https://araratoutdoors.site/main/'},
+      src:''},
     
 ];
 
